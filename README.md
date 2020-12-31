@@ -65,7 +65,7 @@ Kết quả của mô hình (dự đoán trên 100 dòng dữ liệu cuối):
 
 ## 5. Phân công công việc
 - Kiệt: Thu thập dữ liệu, xây dựng mô hình
-- Khiêm: Tiền xử lý, EDA 
+- Khiêm: Tiền xử lý, EDA, report
 
 ## 6. Hướng dẫn chạy code
 Các thư viện cần cài đặt: numpy, pandas, matplotlib, request_html, selenium, scikit-learn, scipy.
